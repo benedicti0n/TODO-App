@@ -11,15 +11,15 @@ function App() {
         </div>
 
         <div>
-          <div class="row">
-            <div class="col-6">
+          <div className="row">
+            <div className="col-6">
               <input type="text" className="p-2" placeholder="Enter your TODO" />
             </div>
-            <div class="col-4">
+            <div className="col-4">
               <input type="date" className="p-2" name="" id="" />
             </div>
-            <div class="col-2">
-              <button class="btn btn-success">ADD</button>
+            <div className="col-2">
+              <button className="btn btn-success">ADD</button>
             </div>
           </div>
         </div>
